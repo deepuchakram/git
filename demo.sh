@@ -1,1 +1,2 @@
-echo " gitignore files "
+echo " gitignore files and git merge conflict "
+
