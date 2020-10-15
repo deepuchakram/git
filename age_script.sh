@@ -6,6 +6,6 @@ read NAME
 echo -n "Enter your age: "
 read AGE
 let FIF_YEAR=(50-$AGE)+$CUR_YEAR
-echo Hello $NAME !! you will be 5 years old in $FIF_YEAR
+echo Hello $NAME !! you will be 60 years old in $FIF_YEAR
 
 
